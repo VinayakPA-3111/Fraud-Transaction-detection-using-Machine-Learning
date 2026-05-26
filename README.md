@@ -1,4 +1,4 @@
-</h1> 🔐 Fraud Transaction Detection — Machine Learning</h1>
+</h1>🔐 Fraud Transaction Detection — Machine Learning</h1>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn&logoColor=white)
